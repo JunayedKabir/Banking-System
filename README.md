@@ -32,17 +32,8 @@ The program uses a `while` loop to keep the application running. Based on the us
 To run this program, you will need:
 * **Java Development Kit (JDK)** 14 or higher (due to the use of enhanced `->` switch expressions).
 
----
 
-## ⚙️ Setup and Installation
-
-Follow these steps to run the project locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-
-   SAMPLE OUTPUT
+SAMPLE OUTPUT:
 
 =================
 BANKING PROGRAMME
