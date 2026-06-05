@@ -42,10 +42,15 @@ BANKING PROGRAMME
 2. Deposit
 3. Withdraw
 4. Exit
+
 =================
+
 Enter your choice: 2
+
 Enter deposit amount: 50.50
+
 Deposit Successful!
+
 
 =================
 BANKING PROGRAMME
